@@ -1,6 +1,6 @@
 # Carrete
 
-Reel for fighting kites
+Reel for fighter kites
 
 <img src="./build/rendering-1.png" alt="drawing" width="300"/>
 <img src="./build/rendering-2.png" alt="drawing" width="300"/>
